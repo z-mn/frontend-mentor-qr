@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -19,8 +20,8 @@ Basic card using HTML and CSS.
 
 ### Links
 
-- Solution URL: [](https://github.com/z-mn/frontend-mentor-qr)
-- Live Site URL: [](https://z-mn.github.io/frontend-mentor-qr/)
+- Solution URL: https://github.com/z-mn/frontend-mentor-qr
+- Live Site URL: https://z-mn.github.io/frontend-mentor-qr
 
 ### Built with
 
