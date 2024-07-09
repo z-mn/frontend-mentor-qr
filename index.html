@@ -20,7 +20,7 @@
         --primaryFontWeight: 400;
         --headingFontWeight: 700;
         --paragraphFontSize: 15px;
-        --borderRadius: 10px;
+        --borderRadius: 20px;
       }
 
       body {
@@ -42,17 +42,17 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 300px;
+        width: 290px;
       }
 
       .qr-image {
-        border-radius: var(--borderRadius);
-        width: 300px;
-        height: 300px;
+        border-radius: calc(var(--borderRadius) / 2);
+        width: 290px;
+        height: 290px;
       }
 
       .card-text {
-        width: 272px;
+        width: 280px;
         text-align: center;
       }
 
